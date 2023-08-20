@@ -1,12 +1,11 @@
 # React + TypeScript + Vite
 
 Hii , I am Madhav Sharma
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Opening Project in sandbox will automatically download all the dependencies for the project which are needed .
+2. I have run my project throughly and it meet all the requirements, you mention in the assignment .
 
 Want to see my Project Write githubbox. instead of github while opening my repo.
 
 Deployment Link : https://codesandbox.io/p/sandbox/github/i-madhav/Internship_Madhav/tree/main
+
+It was pleasure working on the assignment thank you for the opportunity .
